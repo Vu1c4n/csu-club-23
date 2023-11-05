@@ -1,7 +1,7 @@
 import openpyxl
 from dao import *
 from model import *
-from w_excel import write
+from write_excel import write
 from model import Club
 
 # private member
